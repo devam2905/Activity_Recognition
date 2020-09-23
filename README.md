@@ -1,1 +1,1 @@
-# Activity_Rcognition
+# Activity_Recognition using Inception V3
